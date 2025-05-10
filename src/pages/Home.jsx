@@ -1,7 +1,9 @@
+import SearchInput from "../components/SearchInput"
+
 function Home() {
  return (
   <div>
-   <h2>Home</h2>
+  <SearchInput/>
   </div>
  )
 }
